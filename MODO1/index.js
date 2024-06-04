@@ -31,7 +31,7 @@ function setup() {
   h1.style('color', 'white');
   h1.style('font-weight', 'bold')
 
-  a=createA("https://juanacopello.github.io/fuga-p5/MODO0/index.html","go to CLEAN_MODE")
+  a=createA("https://juanacopello.github.io/fuga-p5/","go to CLEAN_MODE")
   a.position(163,105);
   a.style('font-family', 'arial');
   a.style('font-size', '16px');
