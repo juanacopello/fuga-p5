@@ -89,7 +89,7 @@ let rectWidth = 300;
   p.style('color', 'black');
   p.style('font-weight', 'bold')
 
-  a=createA("../MODO1/index.html","go to KAOS_MODE")
+  a=createA("./MODO1/index.html", "go to KAOS_MODE")
   a.position(172,105);
   a.style('font-family', 'arial');
   a.style('font-size', '16px');
